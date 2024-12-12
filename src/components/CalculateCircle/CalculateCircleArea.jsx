@@ -3,6 +3,6 @@
 const CalculateCircleArea = ({ radius }) => {
     const circle = 3.14 * (radius * radius);
     return <h2>El área del círculo es {circle}</h2>
-}
+};
 
-export default CalculateCircleArea
+export default CalculateCircleArea;

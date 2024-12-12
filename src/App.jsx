@@ -1,10 +1,10 @@
 import CalculateSquareArea from "./components/CalculateSquare/CalculateSquareArea";
-import CalculateTriangleArea from "./components/CalculateTriangleArea/CalculateTriangleArea";
-import CalculateCircleArea from "./components/Circle/CalculateCircleArea";
+import CalculateTriangleArea from "./components/CalculateTriangle/CalculateTriangleArea";
+import CalculateCircleArea from "./components/CalculateCircle/CalculateCircleArea";
 import SayHello from "./components/Hello/hello";
-import CelsiusToFahrenheit from "./components/TemperatureCel/CelsiusToFar";
-import FahrenheitToCelsius from "./components/TemperatureFar/FartoCel";
-import TotalPrice from "./components/TotalPrice/TotalPrice";
+import CelsiusToFahrenheit from "./components/CelsiusToFahrenheit/CelsiusToFahrenheit";
+import FahrenheitToCelsius from "./components/FahrenheitToCelsius/FahrenheitToCelsius";
+import TotalPrice from "./components/Price/TotalPrice";
 import WriteMessage from "./components/WriteMessage/WriteMessage";
 
 const App = () => {
